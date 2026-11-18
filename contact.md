@@ -1,1 +1,6 @@
+---
+layout: default
+title: "Contact"
+---
 
+<h1>Contact Me</h1>
